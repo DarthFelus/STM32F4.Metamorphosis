@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R10-1
+Removed Pin From Net: NetName=NetU1_10 Pin=VD9-1
+Removed Pin From Net: NetName=NetU1_10 Pin=VD10-1
+Removed Member From Class: ClassName=LED Member=R19
+Removed Member From Class: ClassName=LED Member=R20
+Removed Member From Class: ClassName=LED Member=VD19
+Removed Member From Class: ClassName=LED Member=VD20
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R11
+Change Component Designator: OldDesignator=R14 NewDesignator=R12
+Change Component Designator: OldDesignator=R15 NewDesignator=R13
+Change Component Designator: OldDesignator=R16 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=VD11 NewDesignator=VD9
+Change Component Designator: OldDesignator=VD12 NewDesignator=VD10
+Change Component Designator: OldDesignator=VD13 NewDesignator=VD11
+Change Component Designator: OldDesignator=VD14 NewDesignator=VD12
+Change Component Designator: OldDesignator=VD15 NewDesignator=VD13
+Change Component Designator: OldDesignator=VD16 NewDesignator=VD14
+Change Component Designator: OldDesignator=VD17 NewDesignator=VD15
+Change Component Designator: OldDesignator=VD18 NewDesignator=VD16
+Change Component Designator: OldDesignator=VD19 NewDesignator=VD17
+Change Component Designator: OldDesignator=VD20 NewDesignator=VD18
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetR11_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR18_1

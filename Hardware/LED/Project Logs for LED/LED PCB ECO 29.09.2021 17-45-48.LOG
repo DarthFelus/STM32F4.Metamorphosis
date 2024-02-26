@@ -1,0 +1,168 @@
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=NetU1_10 Pin=U1-10
+Removed Pin From Net: NetName=SRCLK Pin=U1-11
+Removed Pin From Net: NetName=RCLK Pin=U1-12
+Removed Pin From Net: NetName=GND Pin=U1-13
+Removed Pin From Net: NetName=SER Pin=U1-14
+Removed Pin From Net: NetName=NetU1_10 Pin=U1-16
+Removed Pin From Net: NetName=NetU2_1 Pin=VD9-1
+Removed Pin From Net: NetName=NetU2_15 Pin=VD10-1
+Removed Pin From Net: NetName=NetU1_10 Pin=X1-1
+Removed Pin From Net: NetName=BREV Pin=X1-2
+Removed Pin From Net: NetName=B1 Pin=X1-3
+Removed Pin From Net: NetName=B2 Pin=X1-4
+Removed Pin From Net: NetName=RCLK Pin=X1-5
+Removed Pin From Net: NetName=SRCLK Pin=X1-6
+Removed Pin From Net: NetName=SER Pin=X1-7
+Removed Pin From Net: NetName=GND Pin=X1-8
+Change Component Footprint: Designator=X1 Old Footprint=CON: CWF-8R New Footprint=CON: CWF-6R
+Change Component Footprint: Designator=U2 Old Footprint=N16 New Footprint=D0016A_N
+Change Component Footprint: Designator=U1 Old Footprint=N16 New Footprint=ON_Semi_CASE_369C_0
+Change Component Comment : Designator=X1 Old Comment=Connector, 8pin, 2.5mm, 250VAC, 3A New Comment=Connector, 6pin, 2.54mm, 250VAC, 3A
+Change Component Comment : Designator=U1 Old Comment=SN74HC595N New Comment=IC_ON_Semi_MC7805BDTG_eec
+Change Component Comment : Designator=U2 Old Comment=SN74HC595N New Comment=SN74HC595D
+Change Component Designator: OldDesignator=X1 NewDesignator=X5
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Change Component Designator: OldDesignator=X3 NewDesignator=X2
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Change component parameters: Designator = "X1" ("X5"); Footprint = "CON: CWF-8R"; UniqueID = "\XMKUVJPH" ("\XMKUVJPH")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/cwf-6r-ds1069-6-mr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "6pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CWF-6R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 6pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "N16"; UniqueID = "\TJBCLVJA" ("\TJBCLVJA")
+Change component parameters (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "SN74HC595DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "N16"; UniqueID = "\OUJJCNCR" ("\OUJJCNCR")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/fe0024d15b1aad39/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.onsemi.com/pub/Collateral/MC7800-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "IC REG LINEAR 5V 1A DPAK-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "MC7805BDTGOS-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/fe0024d15b1aad39/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semi"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mfg Package Ident"; Value = "CASE 369C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "863-MC7805BDTG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "CASE 369C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "MC7805BDTG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MC7805BDTGOS-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "863-MC7805BDTG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-40°C to +125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAP: TANTAL-E)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/avx-corporation/F930J107KAAAJ6/478-12404-1-ND/9645231"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "2Ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "case A (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "F930J107KAAAJ6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Tantalum capacitor, 0.33?F, 6.3V, ±10%, 2Ohm, case A (3216), -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0201KRX7R7BB103/311-1404-1-ND/2833710"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.01?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Ceramic capacitor, 0.01?F, X7R, ±10%, 16V, 0201, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(D0016A_N)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Accelerated Designs. All rights reserved"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SN74HC595DR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Value"; VariantName = "[No Variations]"
+Added Component: Designator=X4(CON: CWF-2R)
+Add component (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/cwf-2r-ds1069-2-mr"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "CWF-2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 2pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetU1_10 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetU1_10 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=SER Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=NetU1_10 Pin=U3-10
+Added Pin To Net: NetName=SRCLK Pin=U3-11
+Added Pin To Net: NetName=RCLK Pin=U3-12
+Added Pin To Net: NetName=GND Pin=U3-13
+Added Pin To Net: NetName=NetU1_10 Pin=U3-16
+Added Pin To Net: NetName=NetU2_15 Pin=VD9-1
+Added Pin To Net: NetName=NetU2_1 Pin=VD10-1
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=SRCLK Pin=X5-1
+Added Pin To Net: NetName=SER Pin=X5-2
+Added Pin To Net: NetName=RCLK Pin=X5-3
+Added Pin To Net: NetName=B1 Pin=X5-4
+Added Pin To Net: NetName=B2 Pin=X5-5
+Added Pin To Net: NetName=BREV Pin=X5-6
+Change Net Name : Old Net Name=NetU1_10 New Net Name=5V
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=X4-1
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=VD11-1
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU2_3 Pin=VD12-1
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Pin To Net: NetName=NetU2_4 Pin=VD13-1
+Added Net: Name=NetU2_4
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=VD14-1
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Pin To Net: NetName=NetU2_6 Pin=VD15-1
+Added Net: Name=NetU2_6
+Added Pin To Net: NetName=NetU2_7 Pin=U2-7
+Added Pin To Net: NetName=NetU2_7 Pin=VD16-1
+Added Net: Name=NetU2_7
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U3-14
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=NetU3_1 Pin=U3-1
+Added Pin To Net: NetName=NetU3_1 Pin=VD18-1
+Added Net: Name=NetU3_1
+Added Pin To Net: NetName=NetU3_15 Pin=U3-15
+Added Pin To Net: NetName=NetU3_15 Pin=VD17-1
+Added Net: Name=NetU3_15
+Added Member To Class: ClassName=LED Member=Component C1 Tantalum capacitor, 0.33?F, 6.3V, ±10%, 2Ohm, case A (3216), -55...+125°C
+Added Member To Class: ClassName=LED Member=Component C2 Ceramic capacitor, 0.01?F, X7R, ±10%, 16V, 0201, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component U3 SN74HC595D
+Added Member To Class: ClassName=LED Member=Component X5 Connector, 6pin, 2.54mm, 250VAC, 3A
+Added Room: Name=LED

@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 15:11:04 On 01.10.2021
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [LED.PcbDoc]
+   Generated File[LED.GTO]
+   Generated File[LED.GTP]
+   Generated File[LED.GTS]
+   Generated File[LED.GTL]
+   Generated File[LED.GBL]
+   Generated File[LED.GBS]
+   Generated File[LED.GBP]
+   Generated File[LED.GBO]
+   Generated File[LED.GKO]
+   Generated File[LED.GPT]
+   Generated File[LED.GPB]
+   Generated File[LED.RUL]
+   Generated File[LED.EXTREP]
+   Generated File[LED.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 15:11:06 On 01.10.2021

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=GND Pin=U3-8
+Added Member To Class: ClassName=Main Member=Component C12 0.1µF
+Added Member To Class: ClassName=Main Member=Component C14 293D227X9010E2TE3
+Added Member To Class: ClassName=Main Member=Component C18 0.1µF
+Added Member To Class: ClassName=Main Member=Component C19 10µF
+Added Member To Class: ClassName=Main Member=Component D4 Red
+Added Member To Class: ClassName=Main Member=Component D5 SS26
+Added Member To Class: ClassName=Main Member=Component R12 1 kOhms
+Added Member To Class: ClassName=Main Member=Component R13 1 kOhms

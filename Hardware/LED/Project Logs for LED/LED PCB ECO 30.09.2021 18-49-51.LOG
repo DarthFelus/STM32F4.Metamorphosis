@@ -1,0 +1,14 @@
+Change Component DesignItemId : Designator=X4 Old DesignItemId=CWF-2 New DesignItemId=Connector_terminal_2pin
+Change Component Footprint: Designator=X4 Old Footprint=CON: CWF-2R New Footprint=CON: DG350-3.5-02P
+Change Component Comment : Designator=X4 Old Comment=Connector, 2pin, 2.54mm, 250VAC, 3A New Comment=Terminal connector, 2pin, 3.5mm, 300VAC, 10A
+Change component parameters: Designator = "X4" ("X4"); Footprint = "CON: CWF-2R"; UniqueID = "\UICVHFXD" ("\UICVHFXD")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""׀אחתול""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"

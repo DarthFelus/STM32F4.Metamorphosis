@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=VD1 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD2 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD3 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD4 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD5 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD6 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD7 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD8 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD9 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Change Component Footprint: Designator=VD10 Old Footprint=LED: 0805R New Footprint=LED: 1206R
+Added Room: Name=LED

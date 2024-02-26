@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Member To Class: ClassName=LED Member=Component R9 Resistor film, 220R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R10 Resistor film, 220R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R13 Resistor film, 220R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R14 Resistor film, 220R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R17 Resistor film, 220R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R18 Resistor film, 220R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component VD9 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD10 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD13 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD14 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD17 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=LED Member=Component VD18 LED, Green, *, *, *, -55...+150°C

@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Manipule_v2.PcbDoc]
+   Generated File[Manipule_v2.TXT]
+   Generated File[Manipule_v2.LDP]
+   Generated File[Manipule_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:14:09 On 28.03.2023

@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=X1-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Change Component Footprint: Designator=X4 Old Footprint=JST XH B6B-XH-A New Footprint=CON: CWF-6R
+Change Component Comment : Designator=X4 Old Comment=B6B-XH-A(LF)(SN) New Comment=Connector, 6pin, 2.54mm, 250VAC, 3A
+Change Component Designator: OldDesignator=X4 NewDesignator=X1
+Change Component Designator: OldDesignator=X5 NewDesignator=X4
+Change component parameters: Designator = "X4" ("X1"); Footprint = "JST XH B6B-XH-A"; UniqueID = "\UPTZRARR" ("\UPTZRARR")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""Ðàçúåì""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/cwf-6r-ds1069-6-mr"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "6pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "CWF-6R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 6pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDRRA2W100P0X396_1X2_777X330X1511P)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0026605020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0026605020/molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA22/2086025.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.11mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0026605020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_1 Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Member To Class: ClassName=LED Member=Component J1 0026605020
+Added Member To Class: ClassName=LED Member=Component R1 10 kOhms
+Added Member To Class: ClassName=LED Member=Component R2 10 kOhms
+Added Member To Class: ClassName=LED Member=Component R3 10 kOhms
+Added Member To Class: ClassName=LED Member=Component R5 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R6 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R7 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R8 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R9 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R10 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R11 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R12 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R13 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R14 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R15 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R16 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R17 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component R18 Resistor film, 100R, ±5%, 0201, 0.05W, -55...+125°C
+Added Member To Class: ClassName=LED Member=Component X3 Connector, 2pin, 2.54mm, 250VAC, 3A
+Added Member To Class: ClassName=LED Member=Component X4 Connector, 2pin, 2.54mm, 250VAC, 3A
+Added Room: Name=LED

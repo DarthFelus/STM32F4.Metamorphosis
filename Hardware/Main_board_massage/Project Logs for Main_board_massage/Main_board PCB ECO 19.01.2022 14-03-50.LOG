@@ -1,0 +1,15 @@
+Added Component: Designator=L1(IND: SRP7028A)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/en/products/detail/bourns-inc/c/4876641"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxCurrent"; Value = "3.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SRP7028A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "SRP7028A-100M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeInductor"; Value = "Fixed inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Fixed inductor, 10uH, ±20%, SRP7028A, 3.5A, -40...+150°C"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=L1-1
+Added Pin To Net: NetName=NetC11_2 Pin=L1-2
+Added Member To Class: ClassName=Main Member=Component L1 Fixed inductor, 10uH, ±20%, SRP7028A, 3.5A, -40...+150°C
+Added Room: Name=Main
